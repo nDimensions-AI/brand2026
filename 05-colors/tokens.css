@@ -1,0 +1,29 @@
+:root {
+  /* nDimensions.Ai brand tokens */
+  --nd-void: #0A0B1A;  /* Primary background; text on light */
+  --nd-paper: #F5F6FB;  /* Text on dark; light background */
+  --nd-white: #FFFFFF;  /* Light background, cards on light */
+  --nd-mint: #5FE3D0;  /* Signal accent on dark only */
+  --nd-deep-mint: #0E8F7F;  /* Accent graphics and large text on light */
+  --nd-ink-mint: #0B7366;  /* Links and small accent text on light */
+  --nd-slate: #9BA0C4;  /* Secondary text on dark */
+  --nd-steel: #5A6075;  /* Secondary text on light */
+  --nd-surface: #14172F;  /* Cards and panels on dark */
+  --nd-line: #2C3054;  /* Borders and dividers on dark */
+  --nd-light-line: #DDE0EA;  /* Borders and dividers on light */
+  --nd-font-display: 'Sora', system-ui, sans-serif;
+  --nd-font-body: 'Sora', system-ui, sans-serif;
+  --nd-font-mono: 'JetBrains Mono', ui-monospace, monospace;
+  --nd-radius-sm: 6px;
+  --nd-radius-md: 12px;
+  --nd-radius-lg: 20px;
+  --nd-space-1: 4px;
+  --nd-space-2: 8px;
+  --nd-space-3: 12px;
+  --nd-space-4: 16px;
+  --nd-space-5: 24px;
+  --nd-space-6: 32px;
+  --nd-space-7: 48px;
+  --nd-space-8: 64px;
+  --nd-space-9: 96px;
+}
