@@ -24,3 +24,23 @@ the logo rules, colors, type, voice, the LinkedIn page and the website guideline
 - Type: Sora (brand, headings, body) and JetBrains Mono (labels, code, math)
 - Clear space: the height of the ⁿ on every side (already built into every file)
 - Smallest sizes: stacked 140 px, horizontal 160 px, mark 16 px (use the favicon mark at 48 px and below)
+
+## Social media assets
+
+The social covers use the chain-rule design ∂L/∂θ = ∂L/∂y · ∂y/∂h · … with the stacked ∂ⁿ logo.
+
+| Platform | File | Size | Notes |
+| --- | --- | --- | --- |
+| LinkedIn | linkedin/ndimensions-linkedin-cover-1128x191.png | 2256×382 (2×) | Company page cover |
+| LinkedIn | linkedin/ndimensions-linkedin-member-banner-1584x396.png | 1584×396 | For members' own profiles |
+| LinkedIn | linkedin/ndimensions-linkedin-logo-400.png | 400×400 | Page logo |
+| YouTube | youtube/ndimensions-youtube-banner-2560x1440.png | 2560×1440 | Logo and art sit inside the 1546×423 safe area that shows on every device |
+| YouTube | youtube/ndimensions-youtube-profile-800.png | 800×800 | Shown as a circle; mark is sized to fit |
+| YouTube | youtube/ndimensions-youtube-watermark-150.png | 150×150 | Video watermark (Customization → Branding) |
+| YouTube | youtube/ndimensions-youtube-thumbnail-template-1280x720.png | 1280×720 | Episode thumbnail style for Decoding Language Models |
+| X | x-twitter/ndimensions-x-header-1500x500.png | 1500×500 | Left side kept clear for the round profile photo |
+| X | x-twitter/ndimensions-x-profile-400.png | 400×400 | |
+| Instagram | instagram/ndimensions-instagram-profile-1080.png | 1080×1080 | Instagram has no cover; use the grid banner instead |
+| Instagram | instagram/grid-banner-3-posts/post-1..3 | 3 × 1080×1080 | ∂L/∂θ · the rest of the chain rule · logo. Post 3, then 2, then 1, so they read left to right on your profile |
+| Instagram | instagram/highlight-covers/ | 1080×1920 | Projects, Research, Series, PANINI, About |
+| Instagram | instagram/ndimensions-instagram-story-template-1080x1920.png | 1080×1920 | |
